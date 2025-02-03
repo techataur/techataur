@@ -34,10 +34,10 @@ Welcome to my GitHub profile! I specialize in crafting data-driven digital marke
 ---
 
 ## 📫 Let's Connect!
-🌐 **Website**: [yourwebsite.com](https://techataur.itabdurr.com)  
-🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/techataur)  
-🐦 **Twitter**: [twitter.com/yourhandle](https://twitter.com/techataur)  
-📧 **Email**: techataurr@example.com  
+🌐 **Website**: [techataur.com](https://techataur.itabdurr.com)  
+🔗 **LinkedIn**: [linkedin.com/in/techataur](https://linkedin.com/in/techataur)  
+🐦 **Twitter**: [twitter.com/techataur](https://twitter.com/techataur)  
+📧 **Email**: techataurr@gmail.com  
 
 ---
 
@@ -46,3 +46,4 @@ Welcome to my GitHub profile! I specialize in crafting data-driven digital marke
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical)
 
 🚀 Always learning, growing, and optimizing! Let's connect and collaborate. 💡
+
