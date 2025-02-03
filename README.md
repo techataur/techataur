@@ -1,5 +1,3 @@
-![Digital Marketing Banner](https://via.placeholder.com/1200x400.png?text=Digital+Marketing+%7C+Analytics+%7C+Ads+%7C+Python)
-
 # 👋 Hi, I'm Ataur Rahman!
 
 🚀 **Digital Marketer | Social Media Expert | Google Analytics Specialist | Ads Expert | Python Enthusiast**
